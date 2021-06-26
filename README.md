@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align='left' src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/pikachu.gif' width='25%'>  
+<img align='right' src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/mew.gif' width='20%'>  
 
-<!--
-**ImranJagari/ImranJagari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">BIO</h1>
+<p align='center'>Self-taught developer specialized in .NET but work also with others technologies (as Javascript, Java, C, Python, Unity 3D, Azure ...). Love challenges in cybersecurity, reverse engineering, and coding.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Don't hesitate to contact me on my email (imranjagari@hotmail.com)**
+
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/apache.png" height="42px"/>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/csharp.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/css.png' height='42px'/>
+  <img src="https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/debian.png" height="42px"/>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/html.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/java.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/javascript.jpg' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/mongo.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/php.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/python.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/unity.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/vue.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/lua.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/azure.png' height='42px'>
+</p>
