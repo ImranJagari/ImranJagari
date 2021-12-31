@@ -5,9 +5,6 @@
 <p align='center'>Self-taught developer specialized in .NET but work also with others technologies (as Javascript, Java, C, Python, Unity 3D, Azure ...). Love challenges in cybersecurity, reverse engineering, and coding.</p>
 
 
-
-**Don't hesitate to contact me on my email (imranjagari@hotmail.com)**
-
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/apache.png" height="42px"/>
