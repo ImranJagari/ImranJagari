@@ -2,7 +2,7 @@
 <img align='right' src='https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/mew.gif' width='20%'>  
 
 <h1 align="center">BIO</h1>
-<p align='center'>Self-taught developer specialized in .NET but work also with others technologies (as Javascript, Java, C, Python, Unity 3D, Azure ...). Love challenges in cybersecurity, reverse engineering, and coding.</p>
+<p align='center'>Self-taught developer specialized in .NET and Azure Devops but work also with others technologies (as Javascript, Java, C, Python, Unity 3D, Azure ...). Love challenges in cybersecurity, reverse engineering, and coding.</p>
 
 
 <h2 align="center">Skills</h2>
