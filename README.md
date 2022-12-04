@@ -5,6 +5,8 @@
 <p align='center'>Self-taught developer specialized in .NET and Azure Devops but work also with others technologies (as Javascript, Java, C, Python, Unity 3D, Azure ...). Love challenges in cybersecurity, reverse engineering, and coding.</p>
 
 
+[![ImranJagari's github stats](https://github-readme-stats.vercel.app/api?username=ImranJagari&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ImranJagari/ImranJagari/main/images/apache.png" height="42px"/>
